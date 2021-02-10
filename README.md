@@ -1,3 +1,8 @@
+Estudiante 1: David Santiago Lopez Velez - ds.lopezv@uniandes.edu.co - 201814056
+
+Estudiante 2: Andres Camilo Llanos Jurado - ac.llanos@uniandes.edu.co - 201716506
+
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
