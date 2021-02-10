@@ -91,6 +91,11 @@ while True:
         print('Total de tags cargados: ' + str(lt.size(tags)))
     elif True:
         # TO-DO: Modificación de Est-2 en el Lab 2
+        # TO-DO: Modificación del Est-2 en el Lab 2!
+    elif int(inputs[0]) == 3:
+        print("Cargando información de Book-Tags...")
+        booktags = loadBooksTags()
+        print('Total de Book-Tags cargados: ' + str(lt.size(booktags)))
         pass
 
     else:
